@@ -236,7 +236,8 @@ r.ProgFinish(r"""Mainprog""")
 r.ProgSave(r"""C:/Users/pavizhi/Documents/RoboDK""",r"""Mainprog""",True,r"""E:/RoboDK/Other/VSCodium/VSCodium.exe""")
 ```
 ## simulation: 
- ![output](./EX5.png)
+ ![image](https://user-images.githubusercontent.com/115688029/204532361-d2d42e11-d28a-46f1-aabb-cbf243713755.png)
+
 
  
 ## Results :
